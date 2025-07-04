@@ -5,3 +5,7 @@ azul marino
 negro
 blanco 
 violeta
+morado
+azul
+dorado
+
