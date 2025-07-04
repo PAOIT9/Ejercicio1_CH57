@@ -2,3 +2,6 @@ lista de colores
 azul
 tuequesa
 azul marino
+negro
+blanco 
+violeta
