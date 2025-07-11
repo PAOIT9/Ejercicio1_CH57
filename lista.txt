@@ -9,3 +9,8 @@ morado
 azul
 dorado
 
+negro
+blanco
+negro
+blanco
+
